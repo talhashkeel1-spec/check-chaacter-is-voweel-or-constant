@@ -1,1 +1,1 @@
-# check-chaacter-is-voweel-or-constant
+# check-chaacter-is-vowel-or-constant
